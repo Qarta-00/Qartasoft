@@ -1,0 +1,2 @@
+# Qartasoft
+Primer proyecto Qarta
